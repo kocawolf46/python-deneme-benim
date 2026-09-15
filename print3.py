@@ -1,0 +1,1 @@
+print("pzt","sal","çar","per","cum","cts","paz",sep=" <> ")

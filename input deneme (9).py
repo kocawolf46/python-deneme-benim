@@ -1,0 +1,1 @@
+isim=input("İsminizi giriniz!: ")

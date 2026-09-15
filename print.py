@@ -1,0 +1,1 @@
+print('Türkiye\'nin Başkenti Ankaradır\'dır')
